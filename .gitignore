@@ -1,0 +1,25 @@
+# Persistencia local: contiene datos de prueba y/o datos introducidos por el usuario
+*.dat
+
+# Archivos de respaldo
+*.bak
+
+# Builds / compilación
+build/
+bin/
+obj/
+Debug/
+Release/
+*.o
+*.out
+*.exe
+
+# Archivos temporales
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
